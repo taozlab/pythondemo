@@ -28,3 +28,6 @@ for n in range(0,5):
 print 
 
 print 'Love'
+
+print 'Hate'
+
