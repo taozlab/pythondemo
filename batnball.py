@@ -64,3 +64,6 @@ for event in pygame.event.get():
     clock.tick(60)
 
     pygame.display.flip()
+
+    print 'Good Point'
+    print ''
