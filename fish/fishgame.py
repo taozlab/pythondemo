@@ -3,7 +3,7 @@ from pygame.locals import *
 pygame.init()
 clock=pygame.time.Clock()
 
-screen=pygame.display.set_mode([600,400])
+screen=pygame.display.set_mode([800,600])
 pygame.display.set_caption("Fish Game")
 
 music = pygame.mixer.Sound("/fish/tune.wav")
